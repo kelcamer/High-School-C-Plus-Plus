@@ -1,0 +1,21 @@
+﻿Build started 12/13/2011 8:15:00 AM.
+     1>Project "E:\C++ Programs\Program2\Program2\Program2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Program2.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Program2.cpp
+         Program2.cpp
+     1>e:\c++ programs\program2\program2\program2.cpp(84): error C2601: 'perimetersquare' : local function definitions are illegal
+                 e:\c++ programs\program2\program2\program2.cpp(14): this line contains a '{' which has not yet been matched
+     1>e:\c++ programs\program2\program2\program2.cpp(89): error C2601: 'areasquare' : local function definitions are illegal
+                 e:\c++ programs\program2\program2\program2.cpp(14): this line contains a '{' which has not yet been matched
+     1>e:\c++ programs\program2\program2\program2.cpp(95): error C2601: 'circumference' : local function definitions are illegal
+                 e:\c++ programs\program2\program2\program2.cpp(14): this line contains a '{' which has not yet been matched
+     1>e:\c++ programs\program2\program2\program2.cpp(102): error C2601: 'circlearea' : local function definitions are illegal
+                 e:\c++ programs\program2\program2\program2.cpp(14): this line contains a '{' which has not yet been matched
+     1>e:\c++ programs\program2\program2\program2.cpp(108): fatal error C1075: end of file found before the left brace '{' at 'e:\c++ programs\program2\program2\program2.cpp(14)' was matched
+     1>Done Building Project "E:\C++ Programs\Program2\Program2\Program2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.09

@@ -1,0 +1,26 @@
+﻿Build started 4/5/2012 7:39:13 AM.
+     1>Project "E:\C++ Programs\grade\grade\grade.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\grade.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt grade.cpp
+         grade.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++ Programs\grade\Debug\grade.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\grade.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C++ Programs\grade\Debug\grade.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++ Programs\grade\Debug\grade.lib" /MACHINE:X86 Debug\grade.exe.embed.manifest.res
+         Debug\grade.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\grade.exe.embed.manifest" /manifest Debug\grade.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         grade.vcxproj -> E:\C++ Programs\grade\Debug\grade.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\grade.unsuccessfulbuild".
+         Touching "Debug\grade.lastbuildstate".
+     1>Done Building Project "E:\C++ Programs\grade\grade\grade.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.07

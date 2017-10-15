@@ -1,0 +1,30 @@
+﻿Build started 2/8/2012 7:56:08 AM.
+     1>Project "E:\C++ Programs\Program7_11\Program7_11\Program7_11.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\C++ Programs\Program7_11\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Program7_11.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Program7_11.cpp
+         Program7_11.cpp
+     1>e:\c++ programs\program7_11\program7_11\program7_11.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Program7_11.exe.embed.manifest.res" Debug\Program7_11_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++ Programs\Program7_11\Debug\Program7_11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Program7_11.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C++ Programs\Program7_11\Debug\Program7_11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++ Programs\Program7_11\Debug\Program7_11.lib" /MACHINE:X86 Debug\Program7_11.exe.embed.manifest.res
+         Debug\Program7_11.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Program7_11.exe.embed.manifest" /manifest Debug\Program7_11.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Program7_11.exe.embed.manifest.res" Debug\Program7_11_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++ Programs\Program7_11\Debug\Program7_11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Program7_11.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C++ Programs\Program7_11\Debug\Program7_11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++ Programs\Program7_11\Debug\Program7_11.lib" /MACHINE:X86 Debug\Program7_11.exe.embed.manifest.res
+         Debug\Program7_11.obj
+         Program7_11.vcxproj -> E:\C++ Programs\Program7_11\Debug\Program7_11.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Program7_11.unsuccessfulbuild".
+         Touching "Debug\Program7_11.lastbuildstate".
+     1>Done Building Project "E:\C++ Programs\Program7_11\Program7_11\Program7_11.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.41

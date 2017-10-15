@@ -1,0 +1,17 @@
+﻿Build started 2/1/2012 7:39:23 AM.
+     1>Project "E:\C++ Programs\ShowPicture\ShowPicture\ShowPicture.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ShowPicture.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ShowPicture.cpp
+         ShowPicture.cpp
+     1>e:\c++ programs\showpicture\showpicture\ShowPicture.h(127): error C2065: 'Me' : undeclared identifier
+     1>e:\c++ programs\showpicture\showpicture\ShowPicture.h(127): error C2228: left of '.picRainbow' must have class/struct/union
+                 type is ''unknown-type''
+     1>e:\c++ programs\showpicture\showpicture\ShowPicture.h(127): error C2228: left of '.Visible' must have class/struct/union
+     1>e:\c++ programs\showpicture\showpicture\ShowPicture.h(127): error C2065: 'True' : undeclared identifier
+     1>Done Building Project "E:\C++ Programs\ShowPicture\ShowPicture\ShowPicture.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.27

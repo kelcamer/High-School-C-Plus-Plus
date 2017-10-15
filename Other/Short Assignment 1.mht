@@ -1,0 +1,240 @@
+From: <Saved by Windows Internet Explorer 7>
+Subject: Short Assignment 1
+Date: Thu, 20 Oct 2011 15:22:44 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CC8F3C.1DE35830"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6090
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CC8F3C.1DE35830
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www2.seminolestate.edu/dgrant/career_pathways/short_assignments/ShortAssignment1/sa1.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML=20
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>Short Assignment =
+1</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><LINK=20
+href=3D"https://www2.seminolestate.edu/dgrant/angel_course.css" =
+type=3Dtext/css=20
+rel=3Dstylesheet>
+<META content=3D"MSHTML 6.00.6000.17097" name=3DGENERATOR></HEAD>
+<BODY>
+<H1>Short Assignment #1</H1>
+<HR>
+
+<H3>The purpose of this assignment is to use keyboard input, formatted =
+output to=20
+the monitor, variables, arithmetic formulas, selection structures, and =
+symbolic=20
+constants.</H3>
+<HR>
+
+<H3>Program Requirements:</H3>
+<P>Write a program which determines the cost of a speeding ticket. =
+Calculate the=20
+total cost of the ticket based on the speed of the violator and the =
+speed limit.=20
+Print the total cost of the ticket on the monitor.</P>
+<OL>
+  <LI>
+  <P>Prompt the user for the speed limit and the speed of the =
+driver.</P>
+  <LI>
+  <P>Calculate the ticket cost as $50 plus:</P>
+  <OL>
+    <LI type=3Da>
+    <P>0% additional if the driver's speed was 10 or less miles per hour =
+above=20
+    the speed limit.</P>
+    <LI type=3Da>
+    <P>5% additional if driver's speed was more than 10 miles per hour =
+above the=20
+    speed limit.</P>
+    <LI type=3Da>
+    <P>10% additional if driver's speed was more than 15 miles per hour =
+above=20
+    the speed limit</P>
+    <LI type=3Da>
+    <P>15% additional if driver's speed was more than 20 miles per hour =
+above=20
+    the speed limit.</P>
+    <LI type=3Da>
+    <P>20% additional if driver's speed was more than 25 miles per hour =
+above=20
+    the speed limit.</P>
+    <LI type=3Da>
+    <P>25% additional if driver's speed was 30 or more miles per hour =
+above the=20
+    speed limit.</P>
+    <LI type=3Da>
+    <P>Do not charge a fine if the driver wasn't =
+speeding.</P></LI></OL></LI></OL>
+<OL start=3D2>
+  <LI>
+  <P>Display to the user the values which were input (speed limit and =
+driver's=20
+  speed) and the calculated ticket fine amount. Print 2 decimals for the =
+fine=20
+  amount. Make sure your output format matches the <A=20
+  =
+href=3D"http://www2.seminolestate.edu/dgrant/career_pathways/short_assign=
+ments/ShortAssignment1/sample_output_for_short_assign1.htm"=20
+  target=3D_blank>sample output.</A></P>
+  <LI>
+  <P>You can run your program multiple times to test multiple speed =
+limits and=20
+  driver speeds. Looping is not required for this assignment. Just run =
+your=20
+  program again with a different set of input numbers.</P>
+  <LI>
+  <P>Use a symbolic constant for the base ticker fine rate ($50).</P>
+  <LI>
+  <P>Name your source file SpeedTrap.cpp.</P>
+  <LI>
+  <P>This short assignment does not require comments. You should still =
+follow=20
+  the coding standards introduced to this =
+point.</P></LI></OL></BODY></HTML>
+
+------=_NextPart_000_0000_01CC8F3C.1DE35830
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www2.seminolestate.edu/dgrant/angel_course.css
+
+BODY {
+	BACKGROUND-COLOR: #ff0000
+}
+BODY {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: =
+#ffffff
+}
+PRE#pre-tag-example {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #aaa 1px =
+solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: =
+auto; BORDER-LEFT: #aaa 1px solid; WIDTH: 99%; PADDING-TOP: 0px; =
+BORDER-BOTTOM: #aaa 1px solid
+}
+DIV.code_container {
+	BORDER-RIGHT: #0a0 2px dotted; PADDING-RIGHT: 1ex; BORDER-TOP: #0a0 2px =
+dotted; PADDING-LEFT: 1ex; PADDING-BOTTOM: 1ex; MARGIN-LEFT: 30px; =
+BORDER-LEFT: #0a0 2px dotted; MARGIN-RIGHT: 30px; PADDING-TOP: 1ex; =
+BORDER-BOTTOM: #0a0 2px dotted
+}
+TABLE.common_error {
+	BORDER-RIGHT: red 2px dashed; BORDER-TOP: red 2px dashed; MARGIN-LEFT: =
+auto; BORDER-LEFT: red 2px dashed; WIDTH: 90%; MARGIN-RIGHT: auto; =
+BORDER-BOTTOM: red 2px dashed; BORDER-COLLAPSE: separate; =
+BACKGROUND-COLOR: #ffffff
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 2em; COLOR: #0000ff; FONT-FAMILY: =
+Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.5em; COLOR: #0000ff; FONT-FAMILY: =
+Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+H4 {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 30px; COLOR: #0000ff; MARGIN-RIGHT: =
+30px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+HR {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; WIDTH: 100%; COLOR: #000000; HEIGHT: 3px; BACKGROUND-COLOR: =
+#000000; TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN.dash_underline {
+	COLOR: #000000; BORDER-BOTTOM: 2px dashed; TEXT-DECORATION: none
+}
+SPAN.highlight {
+	FONT-WEIGHT: bold; FONT-STYLE: italic
+}
+LI {
+	MARGIN-LEFT: 30px; LINE-HEIGHT: 150%; MARGIN-RIGHT: 30px; FONT-FAMILY: =
+Verdana, Arial, Helvetica, sans-serif
+}
+IMG.left {
+	FLOAT: left; MARGIN: 15px
+}
+IMG.right {
+	MARGIN-TOP: 15px; FLOAT: right; MARGIN-BOTTOM: 15px; MARGIN-LEFT: 15px
+}
+TABLE.float-left {
+	BORDER-RIGHT: black 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: black =
+2px solid; PADDING-LEFT: 1em; FONT-SIZE: 0.9em; FLOAT: left; =
+MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: black 2px solid; =
+MARGIN-RIGHT: 1em; PADDING-TOP: 1em; BORDER-BOTTOM: black 2px solid
+}
+.floatbox {
+	BORDER-RIGHT: black 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: black =
+2px solid; PADDING-LEFT: 1em; FONT-SIZE: 0.9em; FLOAT: left; =
+MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: black 2px solid; =
+WIDTH: 200px; MARGIN-RIGHT: 2em; PADDING-TOP: 1em; BORDER-BOTTOM: black =
+2px solid; FONT-FAMILY: "Times New Roman", Times, serif; =
+BACKGROUND-COLOR: #ffff00
+}
+TH.column_heading {
+	BACKGROUND: #ffff00; COLOR: #0000ff; FONT-FAMILY: "Courier New", =
+Courier, monospace; TEXT-ALIGN: center
+}
+TD.column_heading {
+	BACKGROUND: #ffff00; COLOR: #0000ff; FONT-FAMILY: "Courier New", =
+Courier, monospace; TEXT-ALIGN: center
+}
+TD.common_error {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif; BACKGROUND-COLOR: #ff0000
+}
+TD.common_error_box {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+P {
+	MARGIN-LEFT: 30px; LINE-HEIGHT: 150%; MARGIN-RIGHT: 30px; FONT-FAMILY: =
+Verdana, Arial, Helvetica, sans-serif
+}
+P.common_error {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 0px; LINE-HEIGHT: 150%; MARGIN-RIGHT: =
+0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P.initial:first-letter {
+	FONT-WEIGHT: bold; FONT-SIZE: 200%; COLOR: #000000
+}
+P.column_heading {
+	FONT-WEIGHT: bold; COLOR: #0000ff; FONT-FAMILY: "Courier New", Courier, =
+monospace; BACKGROUND-COLOR: #ffff00; TEXT-ALIGN: center
+}
+TD {
+	FONT-FAMILY: "Courier New", Courier, monospace
+}
+P.figure_caption {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+P.code {
+	FONT-WEIGHT: bold; FONT-FAMILY: "Courier New", Courier, monospace; =
+BACKGROUND-COLOR: #cccccc
+}
+SPAN.code_comment {
+	FONT-WEIGHT: bold; COLOR: #00cc00; FONT-FAMILY: "Courier New", Courier, =
+monospace
+}
+HR.code_border {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; WIDTH: 60%; COLOR: #000000; HEIGHT: 3px; BACKGROUND-COLOR: #000000; =
+TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: 0px
+}
+P.copyright_line {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif; TEXT-ALIGN: center
+}
+
+------=_NextPart_000_0000_01CC8F3C.1DE35830--
